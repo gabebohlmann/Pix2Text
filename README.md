@@ -603,7 +603,7 @@ Please refer to the `curl` format for your own implementation.
 
 ## Use Script
 
-Script [scripts/screenshot_daemon.py](scripts/screenshot_daemon.py) automatically invokes Pixe2Text to recognize formulas or texts on screenshot images. How does this work?
+Script [scripts/screenshot_daemon.py](scripts/screenshot_daemon.py) automatically invokes Pix2Text to recognize formulas or texts on screenshot images. How does this work?
 
 
 
